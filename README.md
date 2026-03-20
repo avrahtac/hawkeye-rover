@@ -15,6 +15,5 @@ debris cleared  →  rover resumes patrol
 ```
 
 ---
-```
+
 As a part of curriculum Semester VI Mini Project, Department of Electronics and Computer Engineering, Pune University
-```
